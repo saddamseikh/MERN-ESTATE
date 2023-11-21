@@ -62,3 +62,23 @@ index.css
 ```
     npm i react-icons
 ```
+
+# Server part
+
+### npm init
+
+```
+npm init -y
+```
+
+### install express
+
+```
+    npm i express
+```
+
+### install mongooge
+
+```
+
+```
