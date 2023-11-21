@@ -1,6 +1,6 @@
-### Install React.js and tailwincss and create the first template
+# Install React.js and tailwincss and create the first template
 
-# Create vite project
+### Create vite project
 
 1. install vite project
 
@@ -20,4 +20,33 @@
 ```
     npm install
 
+```
+
+### install tailwind css with vite
+
+1. Install Tailwind CSS
+
+```
+    1. npm install -D tailwindcss postcss autoprefixer
+
+    2. npx tailwindcss init -p
+```
+
+### Configure your template paths
+
+1. Add the paths to all of your template files in your tailwind.config.js file.
+
+### Add the Tailwind directives to your CSS
+
+```
+Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
+
+index.css
+```
+
+### Start your build process
+
+```
+    Run your build process with
+       npm run dev.
 ```
