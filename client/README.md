@@ -50,3 +50,15 @@ index.css
     Run your build process with
        npm run dev.
 ```
+
+### Insrtall react-router-dom
+
+```
+    npm i react-router-dom
+```
+
+### Install react - icons
+
+```
+    npm i react-icons
+```
