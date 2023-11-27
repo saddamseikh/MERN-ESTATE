@@ -82,3 +82,9 @@ npm init -y
 ```
 
 ```
+
+### install bcryptjs
+
+```
+    npm i bcryptjs
+```
