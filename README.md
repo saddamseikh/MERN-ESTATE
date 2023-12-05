@@ -88,3 +88,9 @@ npm init -y
 ```
     npm i bcryptjs
 ```
+
+### install jsonwebtoken
+
+```
+    npm i jsonwebtoken
+```
